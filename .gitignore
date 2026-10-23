@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs reales (no subir logs de sistema con IPs/usuarios)
+*.log
